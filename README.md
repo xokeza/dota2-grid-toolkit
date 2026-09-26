@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Replace with your actual preview GIF -->
-<img src="https://raw.githubusercontent.com/xokeza/dota2-grid-toolkit/main/assets/preview.gif" alt="Grid Studio Preview" width="720">
+<img src="https://i.pinimg.com/originals/5c/84/56/5c8456fe235b39acf9b6cf970261d29b.gif" alt="Grid Studio Preview" width="720">
 
 <br><br>
 
